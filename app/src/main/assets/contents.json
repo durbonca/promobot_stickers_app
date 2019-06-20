@@ -1,0 +1,86 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "org.promobot.stickers",
+      "name": "Promobot",
+      "publisher": "Manuel Duran",
+      "tray_image_file": "pbot.png",
+      "publisher_email":"durbonca@gmail.com",
+      "publisher_website": "https://github.com/durbonca",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_pbot_hi.webp",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "02_pbot_wink.webp",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "03_pbot_smile.webp",
+          "emojis": ["🙂","😊"]
+        },
+        {
+          "image_file": "04_pbot_tongue.webp",
+          "emojis": ["😋","😛"]
+        },
+        {
+          "image_file": "05_pbot_glasses.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "06_pbot_cry.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "07_pbot_sad.webp",
+          "emojis": ["😟","🙁","☹"]
+        },
+        {
+          "image_file": "08_pbot_amazed.webp",
+          "emojis": ["😲","😯","🥺"]
+        },
+        {
+          "image_file": "09_pbot_fury.webp",
+          "emojis": ["😡","😠","😤"]
+        },
+        {
+          "image_file": "10_pbot_money.webp",
+          "emojis": ["🤑"]
+        },
+        {
+          "image_file": "11_pbot_love.webp",
+          "emojis": ["😍","🥰","❤"]
+        },
+        {
+          "image_file": "12_pbot_think.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "13_pbot_facepalm.webp",
+          "emojis": ["🤦","🤦‍♂️","🤦‍♀️"]
+        },
+        {
+          "image_file": "14_pbot_scared.webp",
+          "emojis": ["🙈"]
+        },
+        {
+          "image_file": "15_pbot_distressed.webp",
+          "emojis": ["😱"]
+        },
+        {
+          "image_file": "16_pbot_angel.webp",
+          "emojis": ["👼","😇"]
+        },
+        {
+          "image_file": "17_pbot_sleep.webp",
+          "emojis": ["😴","😪"]
+        }
+      ]
+    }
+  ]
+}
