@@ -3,7 +3,7 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "org.promobot.stickers",
+      "identifier": "1",
       "name": "Promobot",
       "publisher": "Manuel Duran",
       "tray_image_file": "pbot.png",
